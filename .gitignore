@@ -1,0 +1,10 @@
+config.toml
+.Out/
+node_modules/
+bin/*
+*.p8
+*.exe
+*.obj
+*.mp3
+
+!bin/fu.wasm

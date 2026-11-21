@@ -1,0 +1,10 @@
+addr = ":9980"
+
+[domains]
+cinemeta = "https://v3-cinemeta.strem.io"
+vidlink = "https://vidlink.pro"
+vidsrc = "https://vidsrc.me"
+
+[auth]
+token = ""
+ips = []
